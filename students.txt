@@ -1,18 +1,3 @@
-name = Haider Ali Amjad
+Name = Syed Muhammad Haseem
 Class = BS Computer Science
 Age = 19 years old
-national = Pakistani 
-
-/**************************/
-
-name = Muhammad Awais
-Class = BS Computer Science
-Age = 19 years old
-national = Pakistani
-
-/**************************/
-
-name = Muhammad Umair
-Class = BS Computer Science
-Age = 19 years old
-national = Pakistani
